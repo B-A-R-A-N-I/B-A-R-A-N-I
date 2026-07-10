@@ -1,6 +1,6 @@
 # Barani
 
-I am a Software Developer who loves to code stuff, mostly in **C++**. Interested in Computer Graphics, Hardwares and Low-Level System Development.
+I am a Software Developer who loves to code stuff, mostly in **C++**. Interested in Computer Graphics, Computer Vision, Hardwares, and Low-Level System Development.
 
 ### What I'm working on:
   - Learning **Rust** to develop future projects.
