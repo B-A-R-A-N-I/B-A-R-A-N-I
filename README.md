@@ -1,11 +1,11 @@
 # Barani
 
-I am a Software Developer who loves to code stuff, mostly in **C++**. Interested in Computer Graphics, Computer Vision, Hardwares, and Low-Level System Development.
+I am a Software Developer who loves to build applications, mostly in **C++** and **Python**. Interested in Deep Learning, Computer Graphics, and Computer Vision.
 
 ### What I'm working on:
   - Learning **Rust** to develop future projects.
   - Learning **DirectX 12 (D3D12)** for more in-depth graphics programming.
-  - Exploring **Embedded Systems** to get into hardware coding.
+  - Exploring **Parallel Computing** and **GPUs** to get into CUDA Programming.
 
 ### Skills:
   - **Languages:** C, C++, Python, Rust
