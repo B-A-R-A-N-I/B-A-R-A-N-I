@@ -4,7 +4,6 @@ I am a Software Developer who loves to build applications, mostly in **C++** and
 
 ### What I'm working on:
   - Learning **Golang** to develop future projects.
-  - Learning to use **Cloud** systems.
   - Exploring **Parallel Computing** and **GPUs** to get into CUDA Programming.
 
 ### Skills:
