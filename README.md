@@ -1,10 +1,10 @@
 # Barani
 
-I am a Software Developer who loves to build applications, mostly in **C++** and **Python**. Interested in Deep Learning, Computer Graphics, Computer Vision, and Backend Development.
+I am a Software Developer who loves to build applications, mostly in **C++** and **Python**. Interested in Machine Learning, Computer Graphics, and DevOps.
 
 ### What I'm working on:
-  - Learning **Rust** and **Golang** to develop future projects.
-  - Learning **DirectX 12 (D3D12)** for more in-depth graphics programming.
+  - Learning **Golang** to develop future projects.
+  - Learning to use **Cloud** systems.
   - Exploring **Parallel Computing** and **GPUs** to get into CUDA Programming.
 
 ### Skills:
